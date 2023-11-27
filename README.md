@@ -1,6 +1,6 @@
 # Virtual Power Plant System
 
-This project is a virtual power plant system that aggregates distributed power sources into a single cloud-based energy provider. It consists of a Node.js REST API for handling battery data written in TypeScript, and a React/Next.js frontend for battery creation, listing, and statistics.
+This project is a virtual power plant system that aggregates distributed power sources into a single cloud-based energy provider. It consists of a Node.js REST API for handling battery data written in TypeScript, and a React frontend for battery creation, listing, and statistics.
 
 ## Features
 
